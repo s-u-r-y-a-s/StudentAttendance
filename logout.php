@@ -5,24 +5,7 @@ window.addEventListener('popstate', function () {
 });
 </script>
 <!--
-<script type = "text/javascript" >
-
-function disableBackButton()
-
-{
-
-window.history.forward();
-
-}
-
-setTimeout("disableBackButton()", 0);
-
-window.onunload=function()
-
-{
-
-null
-
+removed all the unnecessary comments for this comment !!
 };
 
 </script>-->
